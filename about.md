@@ -1,15 +1,9 @@
 ---
-layout: page
+layout: about
 title: About
 permalink: /about/
 ---
 
-Some information about you!
+Frontend Developer at [Expert360](https://expert360.com "Expert360")
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself. 
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+RMIT graduate
